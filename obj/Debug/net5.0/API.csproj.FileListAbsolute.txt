@@ -59,3 +59,5 @@ D:\webshop\skinet\API\bin\Debug\net5.0\Core.dll
 D:\webshop\skinet\API\bin\Debug\net5.0\Infrastructure.dll
 D:\webshop\skinet\API\bin\Debug\net5.0\Infrastructure.pdb
 D:\webshop\skinet\API\bin\Debug\net5.0\Core.pdb
+D:\webshop\skinet\API\bin\Debug\net5.0\AutoMapper.dll
+D:\webshop\skinet\API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
